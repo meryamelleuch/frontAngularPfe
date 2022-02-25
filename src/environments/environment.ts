@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'http://localhost:8087',
+  apiBaseUrl: 'http://10.66.13.83:8087',
   NODE_TLS_REJECT_UNAUTHORIZED:0
 };
 
